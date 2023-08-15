@@ -1,0 +1,27 @@
+Sandbox_FR = {
+
+	Sandbox_INeedMoreStyle = "I Need More Style: Clothing Edition",
+	
+	
+
+	Sandbox_SpawnShirtsResidential = "Autoriser les chemisiers à apparaître:(Bâtiments Résidentiels)",
+	Sandbox_SpawnShirtsResidential_tooltip = "Définissez cette option pour autoriser l'apparition des chemisiers dans les Bâtiments Résidentiels",
+	
+	Sandbox_SpawnShirtsStores = "Autoriser les chemisiers à apparaître:(Magasins de vêtements)",
+	Sandbox_SpawnShirtsStores_tooltip = "Définissez cette option pour autoriser l'apparition des chemisiers dans les Magasins de vêtements",
+	
+	Sandbox_SpawnRateShirts = "Définir le taux d'apparition des chemisiers",
+	Sandbox_SpawnRateShirts_tooltip = "Choisissez un nombre compris entre 0 et 10 pour configurer le taux d'apparition des chemisiers. La valeur par défaut est: 0.01",
+	
+	
+	
+	Sandbox_SpawnPantsResidential = "Autoriser les pantalons à apparaître:(Bâtiments Résidentiels)",
+	Sandbox_SpawnPantsResidential_tooltip = "Définissez cette option pour autoriser les pantalons à apparaître dans les Bâtiments Résidentiels",
+	
+	Sandbox_SpawnPantsStores = "Autoriser les pantalons à apparaître:(Magasins de vêtements)",
+	Sandbox_SpawnPantsStores_tooltip = "Définissez cette option pour autoriser les pantalons à apparaître dans les Magasins de vêtements",
+	
+	Sandbox_SpawnRatePants = "Définir le taux d'apparition des pantalons",
+	Sandbox_SpawnRatePants_tooltip = "Choisissez un nombre compris entre 0 et 10 pour configurer le taux d'apparition des pantalons. La valeur par défaut est: 0.01",
+	
+}
