@@ -6,8 +6,8 @@ ItemName_INMS_CE.BandanaTop_Camo = "Haut Bandana Camouflage",
 ItemName_INMS_CE.BandanaTopShort_White = "Haut Bandana court",							 
 ItemName_INMS_CE.BandanaTopShort_Camo = "Haut Bandana court Camouflage",
 
-ItemName_INMS_CE.ChainTopLong_Trans_Black = "Haut avec Chaîne Trans.",						 
-ItemName_INMS_CE.ChainTopLong_Trans_Lace_Black = "Haut avec Chaîne Trans. & Lacet",
+ItemName_INMS_CE.ChainTopLong_Trans_Black = "Haut Transparent avec Chaîne",						 
+ItemName_INMS_CE.ChainTopLong_Trans_Lace_Black = "Haut Transparent avec Chaîne & Lacet",
 
 ItemName_INMS_CE.ChainTopNoArms_White = "Haut avec Chaîne",							 
 ItemName_INMS_CE.ChainTopNoArms_Camo = "Haut avec Chaîne Camouflage",
@@ -92,8 +92,8 @@ ItemName_INMS_CE.TankTop_BoundB_Camo = "Débardeur avec Liens Camouflage",
 ItemName_INMS_CE.TankTop_White = "Débardeur",					 
 ItemName_INMS_CE.TankTop_Camo = "Débardeur Camouflage",
 
-ItemName_INMS_CE.TankTop_Trans_Black = "Débardeur Trans.",								
-ItemName_INMS_CE.TankTop_Trans_Lace_Black = "Débardeur Trans. & Lacet",
+ItemName_INMS_CE.TankTop_Trans_Black = "Débardeur Transparent",								
+ItemName_INMS_CE.TankTop_Trans_Lace_Black = "Débardeur Transparent & Lacet",
 
 
 ItemName_INMS_CE.TankTopShort_White = "Débardeur Court",					 
